@@ -1,1 +1,4 @@
 some.prop: 1234
+
+math:
+  max: 99
